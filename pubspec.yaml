@@ -1,9 +1,7 @@
 
 name: hbwfc_overlijst
-description: HBWFC Overlijst - scan app for HBW Flower Concepts
-publish_to: "none"
+description: HBWFC Overlijst - scan app
 version: 1.0.0+1
-
 environment:
   sdk: ">=2.19.0 <3.0.0"
 
