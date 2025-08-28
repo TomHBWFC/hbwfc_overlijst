@@ -1,0 +1,25 @@
+
+name: hbwfc_overlijst
+description: HBWFC Overlijst - scan app for HBW Flower Concepts
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_code_scanner: ^0.7.0
+  path_provider: ^2.0.14
+  permission_handler: ^10.4.0
+  share_plus: ^6.3.0
+  open_file: ^3.2.1
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
